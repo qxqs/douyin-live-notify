@@ -1,0 +1,28 @@
+{
+  "name": "douyin-live-notify-miniapp",
+  "version": "1.0.0",
+  "description": "抖音直播开播提醒 - 前端(H5)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.1.0",
+    "vant": "^4.9.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.2.0",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "sass": "^1.77.0",
+    "typescript": "^5.6.0",
+    "unplugin-auto-import": "^0.17.0",
+    "unplugin-vue-components": "^0.27.0",
+    "vite": "^5.4.0",
+    "vue-tsc": "^2.0.0"
+  }
+}
